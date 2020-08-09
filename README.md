@@ -9,6 +9,6 @@ https://i.imgur.com/xsNuFfe.png
 -->
 
 - 🔭 I’m currently working on a machine learning and wellness project.
-- 🌱 I’m currently learning ML.
+- 🌱 I’m currently studying CS at SFSU.
 - 💬 Ask me about anything, I'll try to help.
 - 📫 How to reach me: [ageorgescu@mail.sfsu.edu](mailto:ageorgescu@mail.sfsu.edu)
