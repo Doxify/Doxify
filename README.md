@@ -8,8 +8,8 @@ I'm a student and software engineer! I love learning new things.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxify&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxify&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Doxify" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Doxify" />
 </a>
